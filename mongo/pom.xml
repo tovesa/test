@@ -3,14 +3,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>beer.app</groupId>
-		<artifactId>app</artifactId>
+		<groupId>org.test.app</groupId>
+		<artifactId>test-app</artifactId>
 		<version>DYNAMIC-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>mongo</artifactId>
 	<packaging>jar</packaging>
-	<name>mongo.test</name>
+	<name>mongo</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -46,6 +46,6 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 	</dependencies>
 </project>

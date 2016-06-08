@@ -5,8 +5,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>beer.app</groupId>
-	<artifactId>app</artifactId>
+	<groupId>org.test.app</groupId>
+	<artifactId>test-app</artifactId>
 	<version>DYNAMIC-SNAPSHOT</version>
 
 	<packaging>pom</packaging>
@@ -92,8 +92,6 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 	</dependencies>
 </project> -->
-
-
